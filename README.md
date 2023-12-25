@@ -8,6 +8,8 @@
 
 #### Note that all file expect to read input from the provided input file in each directory.
 
+![](https://imgur.com/W6F1gks.png)
+
 Try out Advent of Code for yourself here!
 https://adventofcode.com/2023
 
